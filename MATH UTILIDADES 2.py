@@ -1,0 +1,13 @@
+import random
+num1 = random.randint(1, 10)
+num2 = random.randint(1, 10)
+num3 = random.randint(1, 10)
+num4 = random.randint(1, 10)
+num5 = random.randint(1, 10)
+num6 = random.randint(1, 10)
+print('Nota Thiago Gonzalez: {}'.format(num1))
+print('Nota Ciro Dourado: {}'.format(num2))
+print('Nota Yago Goltara: {}'.format(num3))
+print('Nota João Gabriel: {}'.format(num4))
+print('Nota Rômulo Passos: {}'.format(num5))
+print('Nota Ítalo Roberto: {}'.format(num6))
